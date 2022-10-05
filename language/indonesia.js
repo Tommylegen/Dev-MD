@@ -1740,7 +1740,7 @@ exports.rules = (prefix) => {
 ➡️ Mungkin dipengaruhi oleh jaringan, signal, banned oleh Whatsapp dan beberapa asalan.
 
 🗯️ Dimana saya bisa mendapatkan Script dari bot ini ?
-➡️ Script ini bisa kalian dapatkan di YouTube ZEEONE OFC
+➡️ Script ini bisa kalian dapatkan di YouTube Raja GG
 
 🗯️ Boleh saya menambah ke grup?
 ➡️ Untuk itu tergantung dari owner bot sendiri
@@ -1772,7 +1772,7 @@ exports.source = () =>{
 return`*------「 SOURCE CODE 」 ------*
 
 Base : https://github.com/DikaArdnt/Hisoka-Morou
-Recode : https://youtube.com/playlist?list=PLFCglBzFPHG7vSQaa9S3P8yfla_d9w-2-
+Recode : https://youtube.com/channel/UCxVf6aARpoMp8w6vh9MKARQ
 `
 }
 exports.tos = (ownernomer) => {
@@ -1785,6 +1785,10 @@ Kalian bisa mendukung saya agar bot ini tetap up to date dengan cara donasi
 Berapapun donasi kalian akan sangat berarti 👍
 Buat kalian yang sudah donasi bisa kirim bukti
 donasi ke owner agar bisa di masukkan ke list donasi
+
+*Donasi Emoney*
+Dana  : 089505054287
+Pulsa : 089505054287
 
 Thanks!
 
