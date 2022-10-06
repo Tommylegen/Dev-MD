@@ -15,7 +15,7 @@ global.APIKeys = {
 // setting 
 global.autoread = false // auto read message
 global.autobio = true 
-global.userRegister = false 
+global.userRegister = true 
 global.autoblok212 = true //ubah jadi true biar nmr 212 di blok sama bot
 
 //language
@@ -26,9 +26,9 @@ global.language = indonesia  //change indonesia to english if you don't understa
 
 // Other
 // Other
-global.botname = "Patrick Md" //namabot kalian
-global.ownername= "RajaxD" //nama kalian
-global.myweb ="https://saweria.co/Rajaaja" //bebas asal jan hapus
+global.botname = "ᴘᴀᴛʀɪᴄᴋ ʙᴏᴛ" //namabot kalian
+global.ownername= "Rajadev" //nama kalian
+global.myweb ="https://rajadevx-api.herokuapp.com/" //bebas asal jan hapus
 global.youtube = "https://youtube.com/channel/UCxVf6aARpoMp8w6vh9MKARQ" //bebas asal jan hapus
 global.myweb2 = "https://lynk.id/rajaaja" //bebas
 global.email = "tommylegends2@gmail.com" //bebas
